@@ -1,0 +1,7 @@
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\bin\Debug\Ejercicio_08.exe.config
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\bin\Debug\Ejercicio_08.exe
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\bin\Debug\Ejercicio_08.pdb
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\obj\Debug\Ejercicio_08.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\obj\Debug\Ejercicio_08.exe
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\obj\Debug\Ejercicio_08.pdb
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_08\obj\Debug\Ejercicio_08.csprojAssemblyReference.cache

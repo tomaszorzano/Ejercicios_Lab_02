@@ -1,0 +1,6 @@
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\bin\Debug\Ejercicio_10.exe.config
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\obj\Debug\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+C:\Users\Camila\source\repos\Ejercicios_Lab_2\Ejercicio_10\obj\Debug\Ejercicio_10.pdb
